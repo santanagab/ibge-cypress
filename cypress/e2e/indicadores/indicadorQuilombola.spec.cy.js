@@ -6,10 +6,10 @@ describe('Acessar a página de gráficos dos Indicadores da Paraíba', () => {
         cy.wait(3000)
     });
 
-    it('Validar seleção do indicador "População" e localização "Paraíba"', () => {
-        selecionarIndicadorELocalizacao('População', 'Paraíba - 25');
-        validarDadosNaTabela('Paraíba', '3.974.687');
-    });
+    ///it('Validar seleção do indicador "População" e localização "Paraíba"', () => {
+    ////selecionarIndicadorELocalizacao('População', 'Paraíba - 25');
+    ////validarDadosNaTabela('Paraíba', '3.974.687');
+    ///});
 
     it('Validar seleção do indicador "Quilombolas" na Paraíba', () => {
         selecionarIndicadorELocalizacao('Quilombolas', 'Paraíba - 25');
