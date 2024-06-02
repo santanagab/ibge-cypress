@@ -20,7 +20,7 @@ Cenário: Filtrar indicador quilombola estado Paraíba
 Cenário: Filtrar indicador quilombola cidade João Pessoa
     Quando seleciono o tema "Quilombola"
     E seleciono a região "João Pessoa (PB)" no filtro de localidade
-    Então exibe o resultado da "população" quilombola da cidade João Pessoa
+    Então exibe a página "dados" da população quilombola da cidade João Pessoa
 
 
 
