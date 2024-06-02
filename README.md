@@ -29,6 +29,7 @@ O projeto final da disciplina Qualidade de Software consiste na automação do s
 - **Cypress 13:** Framework de automação de testes end-to-end para aplicativos web.
 - **Cucumber:** Ferramenta de automação de testes baseada em BDD (Behavior-Driven Development).
 - **JavaScript:** Linguagem de programação utilizada para escrever os testes e automatizações.
+- **Gherkin:** Linguagem de especificação de comportamento utilizada para descrever o comportamento esperado do sistema em termos de cenários de teste.
 
 ### Objetivos:
 O projeto tem como objetivo principal demonstrar a aplicação dos conceitos de Qualidade de Software na prática, abordando aspectos como automação de testes, boas práticas de desenvolvimento e integração de ferramentas de automação com metodologias ágeis.
