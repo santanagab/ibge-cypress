@@ -1,7 +1,7 @@
 #language: pt
 
 Funcionalidade: Visualizar o indicador População por região
-    Descrição: Aqui testamos a filtragem por região (Nordeste, Paraíba e João Pessoa) do indicador de população
+    Descrição: Aqui testamos a filtragem por região (Nordeste, Paraíba e João Pessoa) do indicador de População
 
 Contexto: 
 
@@ -17,7 +17,7 @@ Cenário: Filtrar indicador População estado Paraíba
     E seleciono a região "Paraíba" no filtro de localidade
     Então exibe o resultado da população do estado Paraíba no "ranking" por UF
 
-Cenário: Filtrar indicador População cidade João Pessoa
+Cenário: Filtrar indicador População município João Pessoa
     Quando seleciono o tema "População"
     E seleciono a região "João Pessoa (PB)" no filtro de localidade
-    Então exibe a página "dados" da população da cidade João Pessoa
+    Então exibe a página "dados" da população do município de João Pessoa

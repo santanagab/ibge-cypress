@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-class IndigenaPage {
+class EducacaoPage {
     visitar() {
         cy.visit('https://censo2022.ibge.gov.br/panorama/indicadores.html?localidade=BR&tema=5');
     }
@@ -17,16 +17,16 @@ class IndigenaPage {
         cy.get('#select2-mainLocation-container').should('contain.text', regiao);
     }
 
-    verificarRanking(localizacao, ranking) {
+    verificarRanking(localizacao) {
         cy.get('#chart1 > .card > .conteudo > #ranking').within(() => {
             cy.contains('td', localizacao);
         });
     }
 
-    verificarDadosCidade(cidade, dados) {
+    verificarDadosCidade(cidade) {
         cy.get('#siteCidades')
             .should('contain.text', `Mais sobre ${cidade} no Portal Cidades@`);
     }
 }
 
-export default IndigenaPage;
+export default EducacaoPage;

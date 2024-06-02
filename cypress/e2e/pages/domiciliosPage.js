@@ -1,4 +1,4 @@
-class PopulacaoPage {
+class DomiciliosPage {
     visitar() {
         cy.visit('https://censo2022.ibge.gov.br/panorama/indicadores.html?localidade=BR&tema=5');
     }
@@ -27,4 +27,4 @@ class PopulacaoPage {
     }
 }
 
-export default PopulacaoPage;
+export default DomiciliosPage;

@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-class QuilombolaPage {
+class IndigenasPage {
     visitar() {
         cy.visit('https://censo2022.ibge.gov.br/panorama/indicadores.html?localidade=BR&tema=5');
     }
@@ -17,16 +17,16 @@ class QuilombolaPage {
         cy.get('#select2-mainLocation-container').should('contain.text', regiao);
     }
 
-    verificarRanking(localizacao) {
+    verificarRanking(localizacao, ranking) {
         cy.get('#chart1 > .card > .conteudo > #ranking').within(() => {
             cy.contains('td', localizacao);
         });
     }
 
-    verificarDadosCidade(cidade) {
+    verificarDadosCidade(cidade, dados) {
         cy.get('#siteCidades')
             .should('contain.text', `Mais sobre ${cidade} no Portal Cidades@`);
     }
 }
 
-export default QuilombolaPage;
+export default IndigenasPage;
