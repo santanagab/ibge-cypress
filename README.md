@@ -15,15 +15,15 @@
   - Ianny Mamedes
 
 ## Tema
-- **Título:** Automação do site de Indicadores do Censo 2002 IBGE
+- **Título:** Automação do site de Indicadores do Censo 2022 IBGE
 
   - Acesso para o site [Panorama do Censo 2022](https://censo2022.ibge.gov.br/panorama/indicadores.html?localidade=BR&tema=5)
 
 ## Descrição
-O projeto final da disciplina Qualidade de Software consiste na automação do site de Indicadores do Censo 2002 IBGE, utilizando Cypress 13 integrado ao Cucumber (BDD). A automação é projetada para simular o comportamento de um usuário navegando pelo site, acessando os gráficos e dados do Censo de 2002. 
+O projeto final da disciplina Qualidade de Software consiste na automação do site de Indicadores do Censo 2022 IBGE, utilizando Cypress 13 integrado ao Cucumber (BDD). A automação é projetada para simular o comportamento de um usuário navegando pelo site, acessando os gráficos e dados do Censo de 2022. 
 
 ### Funcionalidades Implementadas:
-- Navegação pelo site para acesso aos indicadores do Censo 2002 IBGE.
+- Navegação pelo site para acesso aos indicadores do Censo 2022 IBGE.
 - Filtragem dos indicadores (temas) disponíveis.
 - Seleção de regiões específicas do país para análise.
 
