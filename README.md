@@ -28,7 +28,7 @@ O projeto final da disciplina Qualidade de Software consiste na automação do s
 - Seleção de regiões específicas do país para análise.
 
 ### Tecnologias Utilizadas:
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white) ![Gherkin](https://img.shields.io/badge/Gherkin-2a9d8f?style=for-the-badge&logo=cucumber&logoColor=white) ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white) ![Gherkin](https://img.shields.io/badge/Gherkin-2a9d8f?style=for-the-badge&logo=cucumber&logoColor=white) ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Objetivos:
 O projeto tem como objetivo principal demonstrar a aplicação dos conceitos de Qualidade de Software na prática, abordando aspectos como automação de testes, boas práticas de desenvolvimento e integração de ferramentas de automação com metodologias ágeis.
