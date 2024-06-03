@@ -34,7 +34,7 @@ O projeto final da disciplina Qualidade de Software consiste na automação do s
 O projeto tem como objetivo principal demonstrar a aplicação dos conceitos de Qualidade de Software na prática, abordando aspectos como automação de testes, boas práticas de desenvolvimento e integração de ferramentas de automação com metodologias ágeis.
 
 ### Resultados Esperados:
-Espera-se que a automação desenvolvida proporcione uma maneira eficiente e confiável de verificar a funcionalidade do site de Indicadores do Censo 2002 IBGE, facilitando a detecção de possíveis falhas e contribuindo para a melhoria da qualidade do software.
+Espera-se que a automação desenvolvida proporcione uma maneira eficiente e confiável de verificar a funcionalidade do site de Indicadores do Censo 2022 IBGE, facilitando a detecção de possíveis falhas e contribuindo para a melhoria da qualidade do software.
 
 ;
 
