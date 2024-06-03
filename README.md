@@ -28,11 +28,11 @@ O projeto final da disciplina Qualidade de Software consiste na automação do s
 - Seleção de regiões específicas do país para análise.
 
 ### Tecnologias Utilizadas:
-- ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) **[Cypress 13](https://www.cypress.io):** Framework de automação de testes end-to-end para aplicativos web.
-- ![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white) **[Cucumber](https://cucumber.io):** Ferramenta de automação de testes baseada em BDD (Behavior-Driven Development).
-- ![Gherkin](https://img.shields.io/badge/Gherkin-2a9d8f?style=for-the-badge&logo=cucumber&logoColor=white) **[Gherkin](https://cucumber.io/docs/gherkin/):** Linguagem de especificação de comportamento utilizada para descrever o comportamento esperado do sistema em termos de cenários de teste.
-- ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) **[Node.js](https://nodejs.org):** Ambiente de execução JavaScript server-side.
-- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript):** Linguagem de programação utilizada para escrever os testes e automatizações.
+- ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+- ![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)
+- ![Gherkin](https://img.shields.io/badge/Gherkin-2a9d8f?style=for-the-badge&logo=cucumber&logoColor=white) 
+- ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Objetivos:
 O projeto tem como objetivo principal demonstrar a aplicação dos conceitos de Qualidade de Software na prática, abordando aspectos como automação de testes, boas práticas de desenvolvimento e integração de ferramentas de automação com metodologias ágeis.
